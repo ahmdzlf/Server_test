@@ -1,0 +1,21 @@
+flask-loadbalancer/
+│── nginx/
+│   └── nginx.conf
+│── server1/
+│   ├── app.py
+│   ├── Dockerfile
+│   ├── requirements.txt
+│── server2/
+│   ├── app.py
+│   ├── Dockerfile
+│   ├── requirements.txt
+│── server3/
+│   ├── app.py
+│   ├── Dockerfile
+│   ├── requirements.txt
+│── server4/
+│   ├── app.py
+│   ├── Dockerfile
+│   ├── requirements.txt
+│── docker-compose.yml
+└── README.md
